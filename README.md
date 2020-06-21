@@ -1,6 +1,6 @@
 # Python_Api_Challenge
 
-!Northern Hemisphere - Max Temp vs. Latitude Linear Regression(Northern Hemisphere - Max Temp vs. Latitude Linear Regression.png)
+![Northern Hemisphere - Max Temp vs. Latitude Linear Regression](Northern Hemisphere - Max Temp vs. Latitude Linear Regression.png)
 
 #![Screenshot](screenshot.png)
 
