@@ -9,7 +9,7 @@ __pycache__/
 #API key
 config.py
 api_keys.py
-g_key
+
 
 # Distribution / packaging
 .Python
