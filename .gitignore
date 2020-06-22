@@ -9,6 +9,9 @@ __pycache__/
 #API key
 config.py
 api_keys.py
+api.key.py
+g_key
+gkey
 
 
 # Distribution / packaging
