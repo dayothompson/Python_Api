@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 # Weather Report Analysis
 
 # Conclusions
 
+=======
+# Weather Report Analysis
+
+# Conclusions
+
+>>>>>>> 3e88c3dea11e79b246ae2f97b79908c017cef083
 # 1.	Strong Correlation
 It can be seen from the Northern and Southern Hemisphere scatter plots of the City Latitude vs Maximum Temperature that there is a strong correlation of absolute value 0.73 and 0.79 for both plots. Hence, the closer you are to the equator, the higher the temperature.
 
